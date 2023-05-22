@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amamuhd15
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...html,css,javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...web development and data science
+- 🌱 I’m currently learning ...html,css,javascript,python and java
+- 💞️ I’m looking to collaborate on ...projects that will help improve my skills and 
 - 📫 How to reach me ...
 
 <!---
